@@ -1,1 +1,1 @@
-
+bool caratteri(int n);
